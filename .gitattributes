@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization.
+* text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.zip binary
+*.hex binary
+*.png binary
+*.jpg binary
+*.dch binary
+*.pdf binary
+*.xlsx binary
